@@ -24,7 +24,7 @@ def health():
 # ==================================================
 # КОНФИГУРАЦИЯ
 # ==================================================
-BOT_TOKEN = "ТВОЙ_ТОКЕН_СЮДА"  # ← ЗАМЕНИ НА СВОЙ ТОКЕН!
+BOT_TOKEN = "8298399133:AAHp8_NxfzRCpeeraoIR4vH05LF3D06oLrw"  # ← ЗАМЕНИ НА СВОЙ ТОКЕН!
 
 bot = Bot(token=BOT_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
